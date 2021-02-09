@@ -1,7 +1,9 @@
 # Turkish-NLP-Preprocessing-module
 Preprocessing tool for Turkish NLP that contains tokenizer, normalizer, stop-word eliminator and stemmer.
 Developed by Melikşah Türker and Büşra Oğuzoğlu for CMPE561 class project.
+
 https://github.com/meliksahturker
+
 https://github.com/busraoguzoglu
 
 Sentence Splitter and Tokenizer modules have 2 versions, rule-based and machine learning based.
