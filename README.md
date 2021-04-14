@@ -4,7 +4,7 @@ Preprocessing tool for Turkish NLP that contains
 - normalizer
 - stop-word eliminator
 - stemmer.
-- 
+
 Developed by Melikşah Türker and Büşra Oğuzoğlu for CMPE561 NLP class project.
 
 https://github.com/meliksahturker
